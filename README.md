@@ -19,5 +19,5 @@ G = nx.DiGraph(nx.scale_free_graph(16, seed=14))
 S, IN, OUT, TUBES, INTENDRILS, OUTTENDRILS, OTHER = get_bowtie_components(graph=G)
 ```
 
-<p align="center"><img width=40% src="https://github.com/jeroenvldj/bow-tie_detection/blob/master/bow-tie_partitioning_example.png"></p>
+<p align="center"><img width=100% src="https://github.com/jeroenvldj/bow-tie_detection/blob/master/bow-tie_partitioning_example.png"></p>
 
