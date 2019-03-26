@@ -1,6 +1,6 @@
 def get_bowtie_components(graph):
     '''Classifying the nodes of a network into a bow-tie structure.
-    Here we follow the paper: 
+    Here we follow the definition of a bow-tie as in: 
     "Bow-tie Decomposition in Directed Graphs" - Yang et al. IEEE (2011) 
     
     input:  NetworkX directed graph or numpy adjacency matrix
